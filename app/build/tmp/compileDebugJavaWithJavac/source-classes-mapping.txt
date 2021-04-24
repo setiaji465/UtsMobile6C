@@ -1,0 +1,2 @@
+id/rdev/DaftarBelanja/BuildConfig.java
+ id.rdev.DaftarBelanja.BuildConfig
